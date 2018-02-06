@@ -17,3 +17,5 @@ THE SOFTWARE.
 This code is a test in trying to recreate https://github.com/facebookresearch/loop in tensorflow
 
 
+to run code
+
